@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "Spinach Omelette",
+    "category": "Breakfast",
+    "prep_minutes": 10,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["spinach", "egg", "milk", "cheese", "butter"],
+    "ingredients_with_qty": [
+      {"name": "Spinach", "amount": "100 g"},
+      {"name": "Egg", "amount": "2 pcs"},
+      {"name": "Milk", "amount": "2 tbsp"},
+      {"name": "Cheese", "amount": "30 g shredded"},
+      {"name": "Butter", "amount": "1 tsp"}
+    ],
+    "instructions": [
+      "Whisk eggs and milk in a small bowl with a pinch of salt and black pepper.",
+      "Melt butter in a non-stick skillet over medium heat and sauté the spinach until wilted (approx 1-2 mins).",
+      "Pour the whisked egg mixture evenly over the spinach.",
+      "Sprinkle cheese over one half as the eggs set.",
+      "Fold over and cook for another 30 seconds until golden and melted. Serve hot."
+    ],
+    "tags": "Quick, High Protein, Breakfast, Low Carb"
+  },
+  {
+    "id": 2,
+    "name": "Creamy Garlic Chicken",
+    "category": "Dinner",
+    "prep_minutes": 25,
+    "difficulty": "Medium",
+    "image_url": "",
+    "ingredients": ["chicken", "garlic", "milk", "butter", "olive oil", "spinach"],
+    "ingredients_with_qty": [
+      {"name": "Chicken Breast", "amount": "400 g sliced"},
+      {"name": "Garlic", "amount": "3 cloves minced"},
+      {"name": "Milk", "amount": "150 ml"},
+      {"name": "Butter", "amount": "1 tbsp"},
+      {"name": "Olive Oil", "amount": "1 tbsp"},
+      {"name": "Spinach", "amount": "50 g"}
+    ],
+    "instructions": [
+      "Season chicken slices with salt, pepper, and herbs.",
+      "Heat olive oil and butter in a pan over medium-high heat. Sear chicken until golden on both sides (6-8 minutes), then set aside.",
+      "Add minced garlic to the same pan and sauté for 1 minute until fragrant.",
+      "Pour in milk and simmer gently, stirring to deglaze the pan.",
+      "Add spinach and return chicken to pan. Simmer for 3 minutes until sauce thickens. Serve with rice or pasta."
+    ],
+    "tags": "Comfort Food, Dinner, High Protein"
+  },
+  {
+    "id": 3,
+    "name": "Classic Tomato Egg Fried Rice",
+    "category": "Dinner",
+    "prep_minutes": 15,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["rice", "egg", "tomato", "onion", "garlic", "olive oil"],
+    "ingredients_with_qty": [
+      {"name": "Cooked Rice", "amount": "2 cups"},
+      {"name": "Egg", "amount": "2 pcs beaten"},
+      {"name": "Tomato", "amount": "2 pcs diced"},
+      {"name": "Onion", "amount": "1/2 chopped"},
+      {"name": "Garlic", "amount": "2 cloves minced"},
+      {"name": "Olive Oil", "amount": "2 tbsp"}
+    ],
+    "instructions": [
+      "Scramble beaten eggs in 1 tbsp oil in a hot wok until soft, then remove and set aside.",
+      "Add remaining oil, sauté onion and garlic until aromatic.",
+      "Add diced tomatoes and cook until juicy and slightly saucy.",
+      "Add cold cooked rice, break up any clumps, and toss well with the tomato sauce.",
+      "Fold in scrambled eggs, season with salt and pepper, and stir-fry for 2 minutes."
+    ],
+    "tags": "Quick, Budget Friendly, Vegetarian"
+  },
+  {
+    "id": 4,
+    "name": "Berry Yogurt Parfait",
+    "category": "Breakfast",
+    "prep_minutes": 5,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["yogurt", "banana", "apple", "milk"],
+    "ingredients_with_qty": [
+      {"name": "Greek Yogurt", "amount": "200 g"},
+      {"name": "Banana", "amount": "1 pc sliced"},
+      {"name": "Apple", "amount": "1/2 pc diced"},
+      {"name": "Honey or Maple syrup", "amount": "1 tbsp"}
+    ],
+    "instructions": [
+      "Spoon half of the yogurt into a tall glass or bowl.",
+      "Layer with half the sliced banana and diced apple.",
+      "Add remaining yogurt and top with fresh fruits.",
+      "Drizzle with honey or maple syrup and enjoy immediately."
+    ],
+    "tags": "Healthy, No Cook, Vegetarian, High Protein"
+  },
+  {
+    "id": 5,
+    "name": "Hearty Vegetable Soup",
+    "category": "Soup",
+    "prep_minutes": 30,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["carrot", "potato", "onion", "garlic", "tomato", "spinach", "olive oil"],
+    "ingredients_with_qty": [
+      {"name": "Carrot", "amount": "2 pcs chopped"},
+      {"name": "Potato", "amount": "2 pcs cubed"},
+      {"name": "Onion", "amount": "1 pc diced"},
+      {"name": "Garlic", "amount": "2 cloves minced"},
+      {"name": "Tomato", "amount": "2 pcs chopped"},
+      {"name": "Spinach", "amount": "100 g"},
+      {"name": "Water or Broth", "amount": "750 ml"}
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot. Sauté onion and garlic until soft (3 mins).",
+      "Add carrots and potatoes, cooking for 5 minutes.",
+      "Stir in tomatoes, water or broth, salt, and pepper.",
+      "Bring to a boil, then reduce heat and simmer covered for 20 minutes until vegetables are tender.",
+      "Stir in spinach during the last 2 minutes until wilted. Serve warm."
+    ],
+    "tags": "Vegan, Comfort Food, Low Calorie, Meal Prep"
+  },
+  {
+    "id": 6,
+    "name": "Creamy Tomato Pasta",
+    "category": "Dinner",
+    "prep_minutes": 20,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["pasta", "tomato", "garlic", "milk", "cheese", "olive oil", "butter"],
+    "ingredients_with_qty": [
+      {"name": "Pasta", "amount": "200 g"},
+      {"name": "Tomato", "amount": "3 pcs crushed/diced"},
+      {"name": "Garlic", "amount": "3 cloves minced"},
+      {"name": "Milk", "amount": "100 ml"},
+      {"name": "Cheese", "amount": "40 g grated"},
+      {"name": "Butter", "amount": "1 tbsp"}
+    ],
+    "instructions": [
+      "Boil pasta in salted water according to package instructions; reserve 1/2 cup pasta water and drain.",
+      "In a skillet, melt butter with olive oil over medium heat. Sauté garlic until aromatic.",
+      "Add tomatoes and cook down for 8 minutes until a rich sauce forms.",
+      "Stir in milk and cheese, creating a silky pink sauce.",
+      "Toss drained pasta in the sauce, adding a splash of pasta water if needed. Serve hot."
+    ],
+    "tags": "Vegetarian, Family Favorite, Quick"
+  },
+  {
+    "id": 7,
+    "name": "Banana Oat Pancakes",
+    "category": "Breakfast",
+    "prep_minutes": 15,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["banana", "egg", "milk", "butter"],
+    "ingredients_with_qty": [
+      {"name": "Ripe Banana", "amount": "2 pcs mashed"},
+      {"name": "Egg", "amount": "2 pcs"},
+      {"name": "Milk", "amount": "3 tbsp"},
+      {"name": "Butter", "amount": "1 tbsp for cooking"}
+    ],
+    "instructions": [
+      "Mash bananas thoroughly with a fork in a mixing bowl.",
+      "Whisk in eggs and milk until a smooth batter forms.",
+      "Melt a dab of butter in a pan over medium-low heat.",
+      "Pour 1/4 cup batter for each pancake. Cook until bubbles form (2-3 mins), then flip and cook 1 more minute.",
+      "Stack and serve warm with fruit or honey."
+    ],
+    "tags": "Gluten Free, Breakfast, Kids Friendly"
+  },
+  {
+    "id": 8,
+    "name": "Crispy Garlic Potato Wedges",
+    "category": "Snacks",
+    "prep_minutes": 30,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["potato", "garlic", "olive oil", "butter"],
+    "ingredients_with_qty": [
+      {"name": "Potato", "amount": "4 large cut into wedges"},
+      {"name": "Garlic", "amount": "4 cloves minced"},
+      {"name": "Olive Oil", "amount": "2 tbsp"},
+      {"name": "Butter", "amount": "1 tbsp melted"},
+      {"name": "Salt & Paprika", "amount": "1 tsp each"}
+    ],
+    "instructions": [
+      "Preheat oven to 200°C (400°F) or preheat air fryer.",
+      "Toss potato wedges with olive oil, melted butter, garlic, paprika, salt, and black pepper.",
+      "Spread wedges in a single layer on a baking sheet.",
+      "Roast for 25-30 minutes, flipping halfway through, until golden and crispy.",
+      "Serve with your favorite dip."
+    ],
+    "tags": "Side Dish, Vegan, Crispy"
+  },
+  {
+    "id": 9,
+    "name": "Cucumber Yogurt Tzatziki Salad",
+    "category": "Salad",
+    "prep_minutes": 10,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["cucumber", "yogurt", "garlic", "lemon", "olive oil"],
+    "ingredients_with_qty": [
+      {"name": "Cucumber", "amount": "1 large grated or diced"},
+      {"name": "Greek Yogurt", "amount": "250 g"},
+      {"name": "Garlic", "amount": "1 clove finely grated"},
+      {"name": "Lemon Juice", "amount": "1 tbsp"},
+      {"name": "Olive Oil", "amount": "1 tbsp"}
+    ],
+    "instructions": [
+      "Squeeze excess water out of the grated cucumber using a clean towel.",
+      "In a bowl, combine Greek yogurt, grated garlic, lemon juice, and olive oil.",
+      "Fold in the drained cucumber, and season with salt and pepper.",
+      "Chill for 15 minutes before serving with pita, grilled meat, or chips."
+    ],
+    "tags": "Refreshing, Low Carb, Keto, Dip"
+  },
+  {
+    "id": 10,
+    "name": "Lemon Herb Roast Chicken",
+    "category": "Dinner",
+    "prep_minutes": 45,
+    "difficulty": "Medium",
+    "image_url": "",
+    "ingredients": ["chicken", "lemon", "garlic", "butter", "olive oil", "potato"],
+    "ingredients_with_qty": [
+      {"name": "Chicken", "amount": "600 g pieces"},
+      {"name": "Lemon", "amount": "1 pc sliced & juiced"},
+      {"name": "Garlic", "amount": "4 cloves crushed"},
+      {"name": "Butter", "amount": "2 tbsp softened"},
+      {"name": "Potato", "amount": "2 pcs cubed"},
+      {"name": "Olive Oil", "amount": "1 tbsp"}
+    ],
+    "instructions": [
+      "Preheat oven to 190°C (375°F).",
+      "Arrange chicken pieces and cubed potatoes in a roasting tray.",
+      "Rub chicken with softened butter, lemon juice, olive oil, minced garlic, salt, and oregano.",
+      "Tuck lemon slices around chicken and potatoes.",
+      "Roast for 40-45 minutes until chicken skin is golden and internal temp reaches 75°C."
+    ],
+    "tags": "High Protein, Dinner, Meal Prep"
+  },
+  {
+    "id": 11,
+    "name": "Stir-Fried Beef and Bell Pepper",
+    "category": "Dinner",
+    "prep_minutes": 20,
+    "difficulty": "Medium",
+    "image_url": "",
+    "ingredients": ["beef", "bell pepper", "onion", "garlic", "olive oil"],
+    "ingredients_with_qty": [
+      {"name": "Beef Strips", "amount": "350 g"},
+      {"name": "Bell Pepper", "amount": "2 pcs sliced"},
+      {"name": "Onion", "amount": "1 pc sliced"},
+      {"name": "Garlic", "amount": "2 cloves minced"},
+      {"name": "Olive Oil", "amount": "2 tbsp"}
+    ],
+    "instructions": [
+      "Season beef strips with salt, black pepper, and 1 tsp cornstarch or soy sauce if available.",
+      "Heat 1 tbsp oil in a wok over high heat. Sear beef for 2-3 minutes until browned; set aside.",
+      "Add remaining oil and stir fry garlic, onion, and bell peppers for 3 minutes until crisp-tender.",
+      "Return beef to the wok, toss everything together for 1 minute, and serve with rice."
+    ],
+    "tags": "High Protein, Quick Dinner, Asian Style"
+  },
+  {
+    "id": 12,
+    "name": "Pan-Seared Salmon with Lemon Butter",
+    "category": "Dinner",
+    "prep_minutes": 15,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["salmon", "lemon", "butter", "garlic", "olive oil", "spinach"],
+    "ingredients_with_qty": [
+      {"name": "Salmon Fillet", "amount": "2 fillets (300 g)"},
+      {"name": "Lemon", "amount": "1 pc juiced"},
+      {"name": "Butter", "amount": "2 tbsp"},
+      {"name": "Garlic", "amount": "2 cloves minced"},
+      {"name": "Spinach", "amount": "100 g"}
+    ],
+    "instructions": [
+      "Pat salmon fillets dry and season both sides with salt and pepper.",
+      "Heat olive oil in a skillet over medium-high heat. Place salmon skin-side down for 4-5 mins.",
+      "Flip salmon, add butter, minced garlic, and lemon juice to pan. Baste salmon with spoon for 3 mins.",
+      "Sauté spinach in pan juices for 1 minute and serve hot."
+    ],
+    "tags": "Omega 3, Keto, Gourmet, Quick"
+  },
+  {
+    "id": 13,
+    "name": "Warm Apple Cinnamon Slices",
+    "category": "Dessert",
+    "prep_minutes": 10,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["apple", "butter", "milk", "yogurt"],
+    "ingredients_with_qty": [
+      {"name": "Apple", "amount": "2 pcs sliced"},
+      {"name": "Butter", "amount": "1 tbsp"},
+      {"name": "Cinnamon", "amount": "1/2 tsp"},
+      {"name": "Yogurt", "amount": "2 tbsp for topping"}
+    ],
+    "instructions": [
+      "Melt butter in a skillet over medium heat.",
+      "Add apple slices and sprinkle cinnamon.",
+      "Sauté for 6-8 minutes until apples are tender and caramelized.",
+      "Serve warm topped with a dollop of cold yogurt."
+    ],
+    "tags": "Sweet, Quick, Comfort, Low Calorie"
+  },
+  {
+    "id": 14,
+    "name": "Loaded Breakfast Scramble",
+    "category": "Breakfast",
+    "prep_minutes": 12,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["egg", "bell pepper", "onion", "cheese", "butter", "tomato"],
+    "ingredients_with_qty": [
+      {"name": "Egg", "amount": "3 pcs"},
+      {"name": "Bell Pepper", "amount": "1/2 pc diced"},
+      {"name": "Onion", "amount": "1/4 pc diced"},
+      {"name": "Tomato", "amount": "1/2 pc diced"},
+      {"name": "Cheese", "amount": "30 g shredded"},
+      {"name": "Butter", "amount": "1 tbsp"}
+    ],
+    "instructions": [
+      "Melt butter in a pan and sauté diced onion and bell peppers for 3 minutes.",
+      "Add diced tomatoes and cook for 1 minute.",
+      "Pour in whisked eggs and gently fold over medium-low heat until creamy curds form.",
+      "Remove from heat, stir in cheese, and season with salt and pepper."
+    ],
+    "tags": "High Protein, Breakfast, Easy"
+  },
+  {
+    "id": 15,
+    "name": "Carrot Ginger Infused Soup",
+    "category": "Soup",
+    "prep_minutes": 25,
+    "difficulty": "Easy",
+    "image_url": "",
+    "ingredients": ["carrot", "onion", "garlic", "butter", "milk"],
+    "ingredients_with_qty": [
+      {"name": "Carrot", "amount": "4 pcs sliced"},
+      {"name": "Onion", "amount": "1 pc chopped"},
+      {"name": "Garlic", "amount": "2 cloves"},
+      {"name": "Butter", "amount": "1 tbsp"},
+      {"name": "Milk", "amount": "100 ml"}
+    ],
+    "instructions": [
+      "Sauté onion and garlic in butter until soft.",
+      "Add carrots and 2 cups of water or broth; simmer for 15 minutes until carrots are soft.",
+      "Blend using an immersion blender until smooth.",
+      "Stir in milk, season with salt and pepper, and warm gently."
+    ],
+    "tags": "Healthy, Immune Booster, Soup"
+  }
+]
